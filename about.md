@@ -12,7 +12,7 @@ My corporate working experience include software engineering internships at Qual
 
 At Qualcomm, I am working on Machine Vision for autonomous vehicles which involves openVx framework application development. My work also focuses on identifying the gaps in the framework and leveraging the robustness of the snapdragon processor.
 
-At Cisco, I have worked on Virtualization component in UCS Director. My work was focused on transitioning a task-based REST architecture of UCSD into a resource-based architecture. Also included Role-based access conrol mechnaisms and workflows.
+At Cisco, I have worked on Virtualization component in UCS Director. My work was focused on transitioning a task-based REST architecture of UCSD into a resource-based architecture. Also worked on Role-based access conrol mechanisms and workflows.
 
 ### Contact me
 
