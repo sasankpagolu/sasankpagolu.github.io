@@ -9,8 +9,11 @@ Currently at Twitter. My interests are in designing and building highly availabl
 ## Experience
 ### Twitter
 https://blog.twitter.com/engineering/en_us/a/2013/observability-at-twitter.html
+
 https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-i.html
+
 https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-ii.html
+
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html
 
 1. Work in the **Observability team**:  the company-wide monitoring & alerting system with an in-house built time-series database using Gorilla compression techniques, that stores all system and application-level (15 Billion) metrics across the fleet at Twitter, and supports infrastructure for reading and writing metrics to the database.
